@@ -1,3 +1,5 @@
+package Creational.Factory;
+
 public class VehicleFactory_SOLN {
 
     public static Vehicle getVehicle(String veString){
